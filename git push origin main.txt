@@ -1,0 +1,8 @@
+git push origin main
+git clone http://.... 
+git pull [cloned rep pulled out] 
+
+
+git add .
+git commit -m "description"
+git push origin main
