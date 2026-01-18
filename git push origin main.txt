@@ -6,3 +6,13 @@ git pull [cloned rep pulled out]
 git add .
 git commit -m "description"
 git push origin main
+
+Clear structure is essential in research writing
+
+Research papers report completed studies
+
+Research proposals justify future research
+
+Methodology and contribution must be explicit
+
+Clarity and coherence improve acceptance
