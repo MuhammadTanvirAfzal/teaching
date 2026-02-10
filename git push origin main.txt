@@ -7,12 +7,18 @@ git add .
 git commit -m "description"
 git push origin main
 
-Clear structure is essential in research writing
+Research: A Way of Thinking
+Referencing, Scientometrics and Ethics 
+Evaluation parameters  
+Literature review and Research Gap Identification
+Formulating Research Problem, /questions and Hypothesis 
+Dataset and Benchmarking 
+Validity and Reliability of a Research Instrument
+Writing research paper & proposal 
+Writing in LateX 
 
-Research papers report completed studies
+Prof. Dr. Valliappan Raju
 
-Research proposals justify future research
-
-Methodology and contribution must be explicit
-
-Clarity and coherence improve acceptance
+Rhydham Arora
+aufenthalt@rathaus.potsdam.de
+https://www.tk.de › ...
